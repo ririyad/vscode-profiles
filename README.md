@@ -7,10 +7,10 @@ This repository contains settings for different profile I am actively using.
 
 |Profile Name|Status|
 |------------|------|
-| Rust | |
-| JavaScript/TypeScript||
-|Ruby||
-|Clojure||
+| Rust | ✖️|
+| JavaScript/TypeScript|✖️|
+|Ruby|✖️|
+|Clojure|✖️|
 
 
 ### Emojis
