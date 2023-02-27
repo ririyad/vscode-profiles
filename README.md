@@ -7,7 +7,7 @@ This repository contains settings for different profile I am actively using.
 
 |Profile Name|Status|
 |------------|------|
-| Rust | ✖️|
+| Rust | ✅ |
 | JavaScript/TypeScript|✖️|
 |Ruby|✖️|
 |Clojure|✖️|
