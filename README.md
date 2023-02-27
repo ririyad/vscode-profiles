@@ -9,7 +9,7 @@ This repository contains settings for different profile I am actively using.
 |------------|------|
 | Rust | ✅ |
 | JavaScript/TypeScript|✖️|
-|Ruby|✖️|
+|Ruby| ✅ |
 |Clojure|✖️|
 
 
